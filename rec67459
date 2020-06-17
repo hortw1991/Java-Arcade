@@ -1,0 +1,105 @@
+cs1302-arcade:
+total 1272
+-rw-r--r-- 1 ugrad     340 Nov  7 18:51 ATTRIBUTION.md
+-rw-r--r-- 1 ugrad      30 Dec 10 18:49 centipede_scores.txt
+-rw-r--r-- 1 ugrad   19121 Nov  7 18:51 LICENSE
+-rw-r--r-- 1 ugrad     216 Nov  7 18:51 Makefile
+-rw-r--r-- 1 ugrad    2091 Nov  7 18:51 pom.xml
+-rw-r--r-- 1 ugrad   34767 Nov  7 18:51 README.md
+-rw-r--r-- 1 ugrad       0 Dec 10 19:00 rec67459
+-rw-r--r-- 1 ugrad    2544 Dec 10 18:55 REFLECTION.md
+-rw-r--r-- 1 ugrad      24 Dec  9 14:15 reversi_scores.txt
+-rw-r--r-- 1 ugrad     544 Nov 11 20:13 run.sh
+drwxr-xr-x 3 ugrad    4096 Nov  7 18:51 src
+-rw-r--r-- 1 ugrad 1205087 Nov  7 18:51 starter-code.png
+drwxr-xr-x 5 ugrad    4096 Dec 10 18:58 target
+
+cs1302-arcade/src:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 18:51 main
+
+cs1302-arcade/src/main:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 18:51 java
+
+cs1302-arcade/src/main/java:
+total 4
+drwxr-xr-x 3 ugrad 4096 Nov  7 18:51 cs1302
+
+cs1302-arcade/src/main/java/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 10 18:58 arcade
+
+cs1302-arcade/src/main/java/cs1302/arcade:
+total 136
+-rw-r--r-- 1 ugrad  6134 Dec 10 18:58 ArcadeApp.java
+-rw-r--r-- 1 ugrad   784 Nov 11 20:11 ArcadeDriver.java
+-rw-r--r-- 1 ugrad 35219 Dec 10 18:46 CentipedeGame.java
+-rw-r--r-- 1 ugrad  1067 Dec  9 13:01 CentipedeMushroom.java
+-rw-r--r-- 1 ugrad  2808 Dec  9 14:07 CentipedePiece.java
+-rw-r--r-- 1 ugrad  1364 Dec  9 14:07 CentipedePoint.java
+-rw-r--r-- 1 ugrad   732 Dec  9 14:07 CentipedeScene.java
+-rw-r--r-- 1 ugrad   878 Dec  9 14:08 CentipedeScorpion.java
+-rw-r--r-- 1 ugrad  1345 Dec  9 14:08 CentipedeSpider.java
+-rw-r--r-- 1 ugrad  8900 Dec  9 14:09 CentipedeSquare.java
+-rw-r--r-- 1 ugrad 40745 Dec 10 18:52 ReversiGame.java
+-rw-r--r-- 1 ugrad   806 Dec  9 14:39 ReversiScene.java
+-rw-r--r-- 1 ugrad  3913 Dec  9 14:38 ReversiSquare.java
+-rw-r--r-- 1 ugrad   398 Dec  9 14:10 ReversiStone.java
+
+cs1302-arcade/target:
+total 12
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 classes
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 generated-sources
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 maven-status
+
+cs1302-arcade/target/classes:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 cs1302
+
+cs1302-arcade/target/classes/cs1302:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 10 18:58 arcade
+
+cs1302-arcade/target/classes/cs1302/arcade:
+total 112
+-rw-r--r-- 1 ugrad  7487 Dec 10 18:58 ArcadeApp.class
+-rw-r--r-- 1 ugrad  1119 Dec 10 18:58 ArcadeDriver.class
+-rw-r--r-- 1 ugrad   866 Dec 10 18:58 CentipedeGame$1.class
+-rw-r--r-- 1 ugrad 24585 Dec 10 18:58 CentipedeGame.class
+-rw-r--r-- 1 ugrad   788 Dec 10 18:58 CentipedeMushroom.class
+-rw-r--r-- 1 ugrad  1564 Dec 10 18:58 CentipedePiece.class
+-rw-r--r-- 1 ugrad   928 Dec 10 18:58 CentipedePoint.class
+-rw-r--r-- 1 ugrad   430 Dec 10 18:58 CentipedeScene.class
+-rw-r--r-- 1 ugrad   583 Dec 10 18:58 CentipedeScorpion.class
+-rw-r--r-- 1 ugrad   783 Dec 10 18:58 CentipedeSpider.class
+-rw-r--r-- 1 ugrad  4894 Dec 10 18:58 CentipedeSquare.class
+-rw-r--r-- 1 ugrad 23510 Dec 10 18:58 ReversiGame.class
+-rw-r--r-- 1 ugrad   465 Dec 10 18:58 ReversiScene.class
+-rw-r--r-- 1 ugrad  2630 Dec 10 18:58 ReversiSquare.class
+-rw-r--r-- 1 ugrad   426 Dec 10 18:58 ReversiStone.class
+
+cs1302-arcade/target/generated-sources:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 10 18:58 annotations
+
+cs1302-arcade/target/generated-sources/annotations:
+total 0
+
+cs1302-arcade/target/maven-status:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 maven-compiler-plugin
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin:
+total 4
+drwxr-xr-x 3 ugrad 4096 Dec 10 18:58 compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile:
+total 4
+drwxr-xr-x 2 ugrad 4096 Dec 10 18:58 default-compile
+
+cs1302-arcade/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r-- 1 ugrad  518 Dec 10 18:58 createdFiles.lst
+-rw-r--r-- 1 ugrad 1112 Dec 10 18:58 inputFiles.lst
+/home/ugrads/horn/cs1302-arcade:/home/work/cs1302a
